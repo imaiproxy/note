@@ -58,7 +58,7 @@ namespace std{
 ## <cctypy\>
  - ctype.h
 
-## <cmath>
+## <cmath\>
  - math.h
 
 
