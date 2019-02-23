@@ -1,16 +1,16 @@
 # c++ の標準ライブラリのメモ
 
-## <bits/stdc++.h>
+## <bits/stdc++.h> 
  - c++の標準ライブラリ一括でインクルード
 
 ---
 
-## <cstdio>
+## <cstdio> 
  - c言語のstdio.h のc++ バージョン
 
 ---
 
-## <algorithm>
+## <algorithm> 
  - 色々な便利なアルゴリズムライブラリ
  - ソート
  - 探索
@@ -18,7 +18,7 @@
 
 ---
 
-## <string>
+## <string> 
  - 文字列クラスstringを扱うライブラリ
  - c_str() でchar* 型に変換
 
